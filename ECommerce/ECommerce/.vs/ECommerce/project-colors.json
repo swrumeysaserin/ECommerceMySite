@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a99c072d-a906-4081-9b2d-7593cff0882a": {
+      "ProjectGuid": "a99c072d-a906-4081-9b2d-7593cff0882a",
+      "DisplayName": "ECommerce.Web",
+      "ColorIndex": 0
+    },
+    "bb32a1a1-c00f-4a5a-8b9c-a6a8ca4e1a29": {
+      "ProjectGuid": "bb32a1a1-c00f-4a5a-8b9c-a6a8ca4e1a29",
+      "DisplayName": "ECommerce.Business",
+      "ColorIndex": 1
+    },
+    "d7554e50-0c75-4f13-b3d5-c7b29a2eeb8d": {
+      "ProjectGuid": "d7554e50-0c75-4f13-b3d5-c7b29a2eeb8d",
+      "DisplayName": "ECommerce.DataAccess",
+      "ColorIndex": 2
+    },
+    "699f2fc6-c995-4b9e-b9ff-9e8ca887993d": {
+      "ProjectGuid": "699f2fc6-c995-4b9e-b9ff-9e8ca887993d",
+      "DisplayName": "ECommerce.Entities",
+      "ColorIndex": 3
+    },
+    "2d9d302c-a857-4a11-b342-37a47e57711c": {
+      "ProjectGuid": "2d9d302c-a857-4a11-b342-37a47e57711c",
+      "DisplayName": "ECommerce.Core",
+      "ColorIndex": 4
+    },
+    "37dec686-a2ea-4582-a1df-046364c9f4e2": {
+      "ProjectGuid": "37dec686-a2ea-4582-a1df-046364c9f4e2",
+      "DisplayName": "Notlar",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
